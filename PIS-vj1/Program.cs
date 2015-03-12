@@ -11,7 +11,8 @@ namespace PIS_vj1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Bero je ovo mjenjao");
-            Console.WriteLine("Local edit");    
+            Console.WriteLine("Local edit");
+            Console.WriteLine("Server edit");
             Console.Read();
         }
     }
